@@ -1,7 +1,7 @@
 label,sublabel,description,styles,bgcolor
-生ごみ,,,,#733b96
+生ごみ,,,img/moyasanai02.svg,#733b96
 燃やせるごみ,,,img/moyasanai02.svg,#733b96
 容器包装プラスチック,,,img/shigen02.svg,#77ae1f
 燃やせないごみ,,,img/moyasu02.svg,#ea3b13
 分別収集,,,img/bin02.svg,#2dc7aa
-粗大ごみ,,,,#2dc7aa
+粗大ごみ,,,img/moyasanai02.svg,#2dc7aa
