@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-生ごみ,,,img/namagomi02.svg,#b5a642
-燃やせるごみ,,,img/moyaserugomi02.svg,#ff0000
-容器包装プラスチック,,,img/youkihousoupura03.svg,#7cfc00
-燃やせないごみ,,,img/moyasenaigomi02.svg,#d2b48c
-分別収集,,,img/bunnbetusyusyu02.svg,#ee82ee
+生ごみ,,,img/namagomi02.svg,#ff9f37
+燃やせるごみ,,,img/moyaserugomi02.svg,#ea3b13
+容器包装プラスチック,,,img/youkihousoupura03.svg,#bbe400
+燃やせないごみ,,,img/moyasenaigomi02.svg,#733b96
+分別収集,,,img/bunnbetusyusyu02.svg,#77ae1f
 粗大ごみ,,,img/sodaigomi02.svg,#d3d3d3
 
