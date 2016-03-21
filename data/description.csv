@@ -3,5 +3,6 @@ label,sublabel,description,styles,bgcolor
 燃やせるごみ,,,img/moyaserugomi02.svg,#ea3b13
 容器包装プラスチック,,,img/prastic02.svg,#bbe400
 燃やせないごみ,,,img/moyasenaigomi02.svg,#733b96
-分別収集,,,img/bunnbetusyusyu02.svg,#77ae1f
+分別収集,,,img/,#2dc7aa
 粗大ごみ,,,img/sodaigomi02.svg,#d3d3d3
+分別紙,,,img/,#77ae1f
