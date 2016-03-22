@@ -60,8 +60,8 @@ a:hover {
 }
 /* ゴミを捨てるときの注意事項 */
 #accordion .note {
-	font-size: 10px;
-	margin-left: 10px;
+	font-size: 12px;
+	margin-left: 20px;
 	font-weight: normal;
 }
 
