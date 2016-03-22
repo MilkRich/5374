@@ -12,6 +12,9 @@ a:hover {
 .accordion-inner {
 	padding: 9px 15px;
 }
+.form-control {
+	font-size: 20px;
+}
 
 /*!
  * ゴミ収集の情報
