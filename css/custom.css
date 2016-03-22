@@ -11,7 +11,6 @@ a:hover {
 }
 .accordion-inner {
 	padding: 9px 15px;
-	font-weight: bolder;
 }
 
 /*!
@@ -63,6 +62,7 @@ a:hover {
 #accordion .note {
 	font-size: 10px;
 	margin-left: 10px;
+	font-weight: normal;
 }
 
 /*!
@@ -73,6 +73,7 @@ a:hover {
 }
 #accordion2 .accordion-inner {
 	text-align: center;
+	font-weight: bolder;
 }
 
 /*!
