@@ -34,7 +34,7 @@ a:hover {
 	display: table-cell;
 	vertical-align: middle;
 	text-align: center;
-	width: 100%;
+	width: 80%;
 	font-size: 22px;
 }
 #accordion .accordion-heading .accordion-toggle {
@@ -42,7 +42,7 @@ a:hover {
 	display: table;
 	padding: 0;
 	width: 100%;
-	height: 119px;
+	height: 229px;
 }
 /* 相対日付 (左肩) */
 #accordion .left-day {
@@ -121,7 +121,7 @@ a:hover {
  */
 #select_area_title {
 	text-align: center;
-	font-size: 20px;
+	font-size: 40px;
 }
 #gps_area {
 	margin-top: 5px;
