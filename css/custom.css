@@ -84,14 +84,14 @@ a:hover {
 	display: block;
 	margin: 0;
 	text-align: left;
-	font-size: 25px;
+	font-size: 22px;
 	margin: 15px 0 15px 15px;
 }
 #accordion3 a.accordion-toggle-top:hover {
 	color: #000000;
 }
 #accordion3 h2 {
-	font-size: 25px;
+	font-size: 20px;
 	margin-top: 40px;
 }
 #accordion3 h3 {
@@ -106,12 +106,12 @@ a:hover {
 	border-top: 1px solid black;
 }
 #accordion3 #caption {
-	font-size: 12px;
+	font-size: 14px;
 	color: #7F7F7F;
 	margin-top: 30px;
 }
 #accordion3 #caption h4 {
-	font-size: 12px;
+	font-size: 14px;
 	font-weight: bold;
 }
 #accordion3 #help {
